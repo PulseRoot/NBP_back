@@ -42,6 +42,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'accounts',
+    'serveradd',
+    'securitybatch',
+    'hostlist',
 
     # user auth
     'rest_framework_simplejwt.token_blacklist',
